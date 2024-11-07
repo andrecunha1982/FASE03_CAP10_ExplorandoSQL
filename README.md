@@ -14,8 +14,6 @@ Os dados escolhidos foram extraidos do site do IBGE (Instituto Brasileiro de Geo
   - **ID_CULTURA (PK):** Identificador único de cultura.
   - **CULTURA:** Nome da cultura.
   - **TIPO_CULTURA:** Categoria da cultura.
-  - **AJU_QUANTIDADE_AGUA:** Quantidade de água aplicada no ajuste.
-  - **AJU_QUANTIDADE_NUTRIENTES:** Quantidade de nutrientes aplicados no ajuste (string para representar NPK).
 
 **ENTIDADE EXPSQL_REGIAO**
   - **ID_ESTADO (PK):** Identificador único de casa estado.
