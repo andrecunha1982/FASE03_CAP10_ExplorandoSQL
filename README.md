@@ -64,6 +64,10 @@ Os dados escolhidos foram extraidos do site do IBGE (Instituto Brasileiro de Geo
 2. Provisionar **Autonomous Transactional Oracle Database**
 3. Abrir SQL Console
 4. Executar o script CREATE_SCRIPT.sql
-5. Utilizar os arquivos EXCEL para as cargas nas respectivas tabelas.
+   4.1. Caso queira ajustar/testar o script CREATE_SCRIPT.sql, foi gerado o script DROP_ALL.sql que derruba todas as tabelas, dados e views.
+5. Utilizar os arquivos EXCEL na paste files para as cargas nas respectivas tabelas via SQL Console;
+6. Após provisionar o banco, executar o script de criação das tabelas, efetuar a carga dos dados, temos disponibilizados neste repositório 3 scripts de consulta:
+   6.1. **LARANJA_PLANTACAO_YoY.SQL:** ÁREA EM HECTARES PLANTADA COM LARANJA ANO A ANO
+   6.2. **LARANJA_PRODUCAO_2024.SQL:** PRODUÇÃO TOTAL DE LARANJAS EM 2024 POR ESTADO
+   6.3. **LARANJA_RENDIMENTO_AVG_KGHECMES.SQL:** RENDIMENTO MEDIO DE QUILOGRAMAS POR HECTARE POR MES POR ESTADO
 
-Caso queira ajustar/testar o script CREATE_SCRIPT.sql, foi gerado o script DROP_ALL.sql que derruba todas as tabelas, dados e views.
