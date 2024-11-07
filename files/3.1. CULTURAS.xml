@@ -1,0 +1,212 @@
+<Terminallist name="xml data">
+    <value id="1">
+        <ID_CULTURA>101</ID_CULTURA>
+        <CULTURA>Algodão herbáceo</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="2">
+        <ID_CULTURA>102</ID_CULTURA>
+        <CULTURA>Amendoim (1ª Safra)</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="3">
+        <ID_CULTURA>103</ID_CULTURA>
+        <CULTURA>Amendoim (2ª Safra)</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="4">
+        <ID_CULTURA>104</ID_CULTURA>
+        <CULTURA>Arroz</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="5">
+        <ID_CULTURA>105</ID_CULTURA>
+        <CULTURA>Aveia</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="6">
+        <ID_CULTURA>106</ID_CULTURA>
+        <CULTURA>Centeio</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="7">
+        <ID_CULTURA>107</ID_CULTURA>
+        <CULTURA>Cevada</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="8">
+        <ID_CULTURA>108</ID_CULTURA>
+        <CULTURA>Feijão (1ª Safra)</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="9">
+        <ID_CULTURA>109</ID_CULTURA>
+        <CULTURA>Feijão (2ª Safra)</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="10">
+        <ID_CULTURA>110</ID_CULTURA>
+        <CULTURA>Feijão (3ª Safra)</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="11">
+        <ID_CULTURA>111</ID_CULTURA>
+        <CULTURA>Girassol</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="12">
+        <ID_CULTURA>112</ID_CULTURA>
+        <CULTURA>Mamona</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="13">
+        <ID_CULTURA>113</ID_CULTURA>
+        <CULTURA>Milho (1ª Safra)</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="14">
+        <ID_CULTURA>114</ID_CULTURA>
+        <CULTURA>Milho (2ª Safra)</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="15">
+        <ID_CULTURA>115</ID_CULTURA>
+        <CULTURA>Soja</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="16">
+        <ID_CULTURA>116</ID_CULTURA>
+        <CULTURA>Sorgo</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="17">
+        <ID_CULTURA>117</ID_CULTURA>
+        <CULTURA>Trigo</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="18">
+        <ID_CULTURA>118</ID_CULTURA>
+        <CULTURA>Triticale</CULTURA>
+        <TIPO_CULTURA>Cereais, leguminosas e oleaginosas</TIPO_CULTURA>
+    </value>
+    <value id="19">
+        <ID_CULTURA>200</ID_CULTURA>
+        <CULTURA>Abacaxi</CULTURA>
+        <TIPO_CULTURA>Abacaxi</TIPO_CULTURA>
+    </value>
+    <value id="20">
+        <ID_CULTURA>300</ID_CULTURA>
+        <CULTURA>Alho</CULTURA>
+        <TIPO_CULTURA>Alho</TIPO_CULTURA>
+    </value>
+    <value id="21">
+        <ID_CULTURA>400</ID_CULTURA>
+        <CULTURA>Banana</CULTURA>
+        <TIPO_CULTURA>Banana</TIPO_CULTURA>
+    </value>
+    <value id="22">
+        <ID_CULTURA>500</ID_CULTURA>
+        <CULTURA>Batata - inglesa (1ª Safra)</CULTURA>
+        <TIPO_CULTURA>Batata</TIPO_CULTURA>
+    </value>
+    <value id="23">
+        <ID_CULTURA>600</ID_CULTURA>
+        <CULTURA>Batata - inglesa (2ª Safra)</CULTURA>
+        <TIPO_CULTURA>Batata</TIPO_CULTURA>
+    </value>
+    <value id="24">
+        <ID_CULTURA>700</ID_CULTURA>
+        <CULTURA>Batata - inglesa (3ª Safra)</CULTURA>
+        <TIPO_CULTURA>Batata</TIPO_CULTURA>
+    </value>
+    <value id="25">
+        <ID_CULTURA>800</ID_CULTURA>
+        <CULTURA>Cacau</CULTURA>
+        <TIPO_CULTURA>Cacau</TIPO_CULTURA>
+    </value>
+    <value id="26">
+        <ID_CULTURA>901</ID_CULTURA>
+        <CULTURA>Café arábica</CULTURA>
+        <TIPO_CULTURA>Café</TIPO_CULTURA>
+    </value>
+    <value id="27">
+        <ID_CULTURA>902</ID_CULTURA>
+        <CULTURA>Café canephora</CULTURA>
+        <TIPO_CULTURA>Café</TIPO_CULTURA>
+    </value>
+    <value id="28">
+        <ID_CULTURA>1100</ID_CULTURA>
+        <CULTURA>Cana-de-açúcar</CULTURA>
+        <TIPO_CULTURA>Cana-de-açúcar</TIPO_CULTURA>
+    </value>
+    <value id="29">
+        <ID_CULTURA>1200</ID_CULTURA>
+        <CULTURA>Castanha-de-caju</CULTURA>
+        <TIPO_CULTURA>Castanha-de-caju</TIPO_CULTURA>
+    </value>
+    <value id="30">
+        <ID_CULTURA>1300</ID_CULTURA>
+        <CULTURA>Cebola</CULTURA>
+        <TIPO_CULTURA>Cebola</TIPO_CULTURA>
+    </value>
+    <value id="31">
+        <ID_CULTURA>1400</ID_CULTURA>
+        <CULTURA>Coco-da-baía</CULTURA>
+        <TIPO_CULTURA>Coco-da-baía</TIPO_CULTURA>
+    </value>
+    <value id="32">
+        <ID_CULTURA>1500</ID_CULTURA>
+        <CULTURA>Fumo</CULTURA>
+        <TIPO_CULTURA>Fumo</TIPO_CULTURA>
+    </value>
+    <value id="33">
+        <ID_CULTURA>1600</ID_CULTURA>
+        <CULTURA>Guaraná</CULTURA>
+        <TIPO_CULTURA>Guaraná</TIPO_CULTURA>
+    </value>
+    <value id="34">
+        <ID_CULTURA>1700</ID_CULTURA>
+        <CULTURA>Juta</CULTURA>
+        <TIPO_CULTURA>Juta</TIPO_CULTURA>
+    </value>
+    <value id="35">
+        <ID_CULTURA>1800</ID_CULTURA>
+        <CULTURA>Laranja</CULTURA>
+        <TIPO_CULTURA>Laranja</TIPO_CULTURA>
+    </value>
+    <value id="36">
+        <ID_CULTURA>1900</ID_CULTURA>
+        <CULTURA>Maçã</CULTURA>
+        <TIPO_CULTURA>Maçã</TIPO_CULTURA>
+    </value>
+    <value id="37">
+        <ID_CULTURA>2000</ID_CULTURA>
+        <CULTURA>Malva</CULTURA>
+        <TIPO_CULTURA>Malva</TIPO_CULTURA>
+    </value>
+    <value id="38">
+        <ID_CULTURA>2001</ID_CULTURA>
+        <CULTURA>Mandioca</CULTURA>
+        <TIPO_CULTURA>Mandioca</TIPO_CULTURA>
+    </value>
+    <value id="39">
+        <ID_CULTURA>2002</ID_CULTURA>
+        <CULTURA>Pimenta-do-reino</CULTURA>
+        <TIPO_CULTURA>Pimenta-do-reino</TIPO_CULTURA>
+    </value>
+    <value id="40">
+        <ID_CULTURA>2003</ID_CULTURA>
+        <CULTURA>Sisal ou agave</CULTURA>
+        <TIPO_CULTURA>Sisal ou agave</TIPO_CULTURA>
+    </value>
+    <value id="41">
+        <ID_CULTURA>2004</ID_CULTURA>
+        <CULTURA>Tomate</CULTURA>
+        <TIPO_CULTURA>Tomate</TIPO_CULTURA>
+    </value>
+    <value id="42">
+        <ID_CULTURA>2005</ID_CULTURA>
+        <CULTURA>Uva</CULTURA>
+        <TIPO_CULTURA>Uva</TIPO_CULTURA>
+    </value>
+</Terminallist> 

@@ -1,0 +1,137 @@
+<Terminallist name="xml data">
+    <value id="1">
+        <ID_ESTADO>11</ID_ESTADO>
+        <ESTADO>Rondônia</ESTADO>
+        <REGIAO>Norte</REGIAO>
+    </value>
+    <value id="2">
+        <ID_ESTADO>12</ID_ESTADO>
+        <ESTADO>Acre</ESTADO>
+        <REGIAO>Norte</REGIAO>
+    </value>
+    <value id="3">
+        <ID_ESTADO>13</ID_ESTADO>
+        <ESTADO>Amazonas</ESTADO>
+        <REGIAO>Norte</REGIAO>
+    </value>
+    <value id="4">
+        <ID_ESTADO>14</ID_ESTADO>
+        <ESTADO>Roraima</ESTADO>
+        <REGIAO>Norte</REGIAO>
+    </value>
+    <value id="5">
+        <ID_ESTADO>15</ID_ESTADO>
+        <ESTADO>Pará</ESTADO>
+        <REGIAO>Norte</REGIAO>
+    </value>
+    <value id="6">
+        <ID_ESTADO>16</ID_ESTADO>
+        <ESTADO>Amapá</ESTADO>
+        <REGIAO>Norte</REGIAO>
+    </value>
+    <value id="7">
+        <ID_ESTADO>17</ID_ESTADO>
+        <ESTADO>Tocantins</ESTADO>
+        <REGIAO>Norte</REGIAO>
+    </value>
+    <value id="8">
+        <ID_ESTADO>21</ID_ESTADO>
+        <ESTADO>Maranhão</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="9">
+        <ID_ESTADO>22</ID_ESTADO>
+        <ESTADO>Piauí</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="10">
+        <ID_ESTADO>23</ID_ESTADO>
+        <ESTADO>Ceará</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="11">
+        <ID_ESTADO>24</ID_ESTADO>
+        <ESTADO>Rio Grande do Norte</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="12">
+        <ID_ESTADO>25</ID_ESTADO>
+        <ESTADO>Paraíba</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="13">
+        <ID_ESTADO>26</ID_ESTADO>
+        <ESTADO>Pernambuco</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="14">
+        <ID_ESTADO>27</ID_ESTADO>
+        <ESTADO>Alagoas</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="15">
+        <ID_ESTADO>28</ID_ESTADO>
+        <ESTADO>Sergipe</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="16">
+        <ID_ESTADO>29</ID_ESTADO>
+        <ESTADO>Bahia</ESTADO>
+        <REGIAO>Nordeste</REGIAO>
+    </value>
+    <value id="17">
+        <ID_ESTADO>31</ID_ESTADO>
+        <ESTADO>Minas Gerais</ESTADO>
+        <REGIAO>Sudeste</REGIAO>
+    </value>
+    <value id="18">
+        <ID_ESTADO>32</ID_ESTADO>
+        <ESTADO>Espírito Santo</ESTADO>
+        <REGIAO>Sudeste</REGIAO>
+    </value>
+    <value id="19">
+        <ID_ESTADO>33</ID_ESTADO>
+        <ESTADO>Rio de Janeiro</ESTADO>
+        <REGIAO>Sudeste</REGIAO>
+    </value>
+    <value id="20">
+        <ID_ESTADO>35</ID_ESTADO>
+        <ESTADO>São Paulo</ESTADO>
+        <REGIAO>Sudeste</REGIAO>
+    </value>
+    <value id="21">
+        <ID_ESTADO>41</ID_ESTADO>
+        <ESTADO>Paraná</ESTADO>
+        <REGIAO>Sul</REGIAO>
+    </value>
+    <value id="22">
+        <ID_ESTADO>42</ID_ESTADO>
+        <ESTADO>Santa Catarina</ESTADO>
+        <REGIAO>Sul</REGIAO>
+    </value>
+    <value id="23">
+        <ID_ESTADO>43</ID_ESTADO>
+        <ESTADO>Rio Grande do Sul</ESTADO>
+        <REGIAO>Sul</REGIAO>
+    </value>
+    <value id="24">
+        <ID_ESTADO>50</ID_ESTADO>
+        <ESTADO>Mato Grosso do Sul</ESTADO>
+        <REGIAO>Centro-Oeste</REGIAO>
+    </value>
+    <value id="25">
+        <ID_ESTADO>51</ID_ESTADO>
+        <ESTADO>Mato Grosso</ESTADO>
+        <REGIAO>Centro-Oeste</REGIAO>
+    </value>
+    <value id="26">
+        <ID_ESTADO>52</ID_ESTADO>
+        <ESTADO>Goiás</ESTADO>
+        <REGIAO>Centro-Oeste</REGIAO>
+    </value>
+    <value id="27">
+        <ID_ESTADO>53</ID_ESTADO>
+        <ESTADO>Distrito Federal</ESTADO>
+        <REGIAO>Centro-Oeste</REGIAO>
+    </value>
+</Terminallist> 

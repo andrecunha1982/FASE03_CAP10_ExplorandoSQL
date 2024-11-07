@@ -1,0 +1,22 @@
+<Terminallist name="xml data">
+    <value id="1">
+        <ID_VARIAVEL>1</ID_VARIAVEL>
+        <VARIAVEL>Área plantada</VARIAVEL>
+        <METRICA_VARIAVEL>Hectares</METRICA_VARIAVEL>
+    </value>
+    <value id="2">
+        <ID_VARIAVEL>2</ID_VARIAVEL>
+        <VARIAVEL>Área colhida</VARIAVEL>
+        <METRICA_VARIAVEL>Hectares</METRICA_VARIAVEL>
+    </value>
+    <value id="3">
+        <ID_VARIAVEL>3</ID_VARIAVEL>
+        <VARIAVEL>Produção</VARIAVEL>
+        <METRICA_VARIAVEL>Toneladas</METRICA_VARIAVEL>
+    </value>
+    <value id="4">
+        <ID_VARIAVEL>4</ID_VARIAVEL>
+        <VARIAVEL>Rendimento médio</VARIAVEL>
+        <METRICA_VARIAVEL>Quilogramas por Hectare</METRICA_VARIAVEL>
+    </value>
+</Terminallist> 
